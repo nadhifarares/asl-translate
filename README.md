@@ -22,7 +22,7 @@ The successful completion of this project would contribute to improving communic
 
 The project will make use of various tools and technologies including:
 - Python programming language
-- Computer vision libraries (e.g., OpenCV)
+- Computer vision libraries
 - Deep learning frameworks (e.g., TensorFlow)
 - Data preprocessing techniques
 - Image classification algorithms
